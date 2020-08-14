@@ -1,0 +1,24 @@
+Enemy Types:
+
+Easy Enemies:
+Slime
+Rat
+Cockroach
+
+Medium Enemies:
+Skeleton
+Ghost
+Witch
+
+Hard Enemies:
+Vampire
+Demon
+Dragon
+
+Boss Enemy:
+Level One:
+Grigore Strigoi
+Level Two:
+Drudenkopf
+Level Three:
+Dragon of Damnation
